@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import React from 'react'
 import { GrPrevious, GrNext } from 'react-icons/gr'
 import { BsLaptop } from 'react-icons/bs'
 import { AiFillGithub } from 'react-icons/ai'
@@ -78,13 +78,15 @@ const BackendNodeProjects = () => {
             <a
               href={info.host}
               className='col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded'
-              target='_blank'>
+              target='_blank'
+              rel='noreferrer'>
               <BsLaptop /> Watch Live
             </a>
             <a
               href={info.github}
               className='col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded'
-              target='_blank'>
+              target='_blank'
+              rel='noreferrer'>
               <AiFillGithub /> Source Code
             </a>
           </div>
