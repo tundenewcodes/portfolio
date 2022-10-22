@@ -3,7 +3,7 @@ import {
   SiJavascript,
   SiMicrosoftsqlserver,
   SiNodedotjs,
-  SiDotnet,
+  
   SiReact,
   SiHtml5,
   SiCss3,

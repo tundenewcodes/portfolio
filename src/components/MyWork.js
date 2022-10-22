@@ -1,7 +1,7 @@
 import React, { Fragment, useState } from 'react'
-import { GrPrevious, GrNext } from 'react-icons/gr';
-import { BsLaptop } from 'react-icons/bs';
-import { AiFillGithub } from 'react-icons/ai';
+// import { GrPrevious, GrNext } from 'react-icons/gr';
+// import { BsLaptop } from 'react-icons/bs';
+// import { AiFillGithub } from 'react-icons/ai';
 import Projects from './PROJECTS/Projects'
 import BackendDjangoProjects from './PROJECTS/BackendDjangoProjects'
 import BackendNodeProjects from './PROJECTS/BackendNodeProjects'

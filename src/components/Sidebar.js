@@ -4,7 +4,7 @@ import {FiUser} from 'react-icons/fi'
 import {BsCode} from 'react-icons/bs'
 import {MdOutlineDashboard, MdOutlineContactPage, MdEmail} from 'react-icons/md'
 import {AiFillLinkedin, AiFillTwitterCircle, AiFillGithub, AiOutlineUnorderedList} from 'react-icons/ai'
-import {VscAccount} from 'react-icons/vsc'
+//import {VscAccount} from 'react-icons/vsc'
 import {Link, NavLink} from "react-router-dom";
 
 function Sidebar() {
