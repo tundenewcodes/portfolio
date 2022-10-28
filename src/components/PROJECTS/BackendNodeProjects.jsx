@@ -15,6 +15,15 @@ const BackendNodeProjects = () => {
       github: 'https://github.com/tundenewcodes/node-task-manager',
     },
     {
+      name: 'E-commerce App',
+
+      host: 'https://mern-ecommerce-full.herokuapp.com/',
+      pic1: '../portfolio-images/ms-01.jpg',
+      pic2: '../portfolio-images/ms-02.jpg',
+      pic3: '../portfolio-images/ms-03.jpg',
+      github: 'https://github.com/tundenewcodes/node-ecommerce-app',
+    },
+    {
       name: 'NASA PLANETS App',
 
       host: 'https://nasa-planet.herokuapp.com',

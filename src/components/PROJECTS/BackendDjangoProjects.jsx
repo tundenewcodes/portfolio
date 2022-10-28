@@ -14,15 +14,7 @@ const BackendDjangoProjects = () => {
       pic3: '../portfolio-images/ntp-03.jpg',
       github: 'https://github.com/tundenewcodes/fullstack-noteapp',
     },
-    {
-      name: 'E-commerce App',
-
-      host: 'https://py-django-ecommerce-webapp.herokuapp.com/',
-      pic1: '../portfolio-images/ec-01.jpg',
-      pic2: '../portfolio-images/ec-01.jpg',
-      pic3: '../portfolio-images/ec-01.jpg',
-      github: 'https://github.com/tundenewcodes/django-ecommerce',
-    },
+   
     {
       name: 'Discord App',
 

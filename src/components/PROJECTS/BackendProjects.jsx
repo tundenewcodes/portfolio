@@ -35,11 +35,11 @@ const BackendProjects = () => {
     {
       name: 'E-commerce App',
 
-      host: 'https://py-django-ecommerce-webapp.herokuapp.com/',
-      pic1: '../portfolio-images/ec-01.jpg',
-      pic2: '../portfolio-images/ec-01.jpg',
-      pic3: '../portfolio-images/ec-01.jpg',
-      github: 'https://github.com/tundenewcodes/django-ecommerce',
+      host: 'https://mern-ecommerce-full.herokuapp.com/',
+      pic1: '../portfolio-images/ms-01.jpg',
+      pic2: '../portfolio-images/ms-02.jpg',
+      pic3: '../portfolio-images/ms-03.jpg',
+      github: 'https://github.com/tundenewcodes/node-ecommerce-app',
     },
     {
       name: 'NASA PLANETS App',

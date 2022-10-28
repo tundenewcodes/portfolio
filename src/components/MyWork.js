@@ -63,16 +63,16 @@ let selectedValue = selectBox.options[selectBox.selectedIndex].value
 
 if (selectedValue === 'All-projects'){
   toggleAllProjects()
-}else if(selectedValue ===  'backend-projects'){
+}else if(selectedValue ===  'fullstack-projects'){
   toggleBackendProjects()
 }
 else if(selectedValue ===  'frontend-projects'){
   toggleFrontendProjects()
 }
-else if(selectedValue ===  'backendDjango-projects'){
+else if(selectedValue ===  'fullstackDjango-projects'){
   toggleBackendDjangoProjects()
 }
-else if(selectedValue ===  'backendNode-projects'){
+else if(selectedValue ===  'fullstackMERN-projects'){
   toggleBackendNodeProjects()
 }
       }
