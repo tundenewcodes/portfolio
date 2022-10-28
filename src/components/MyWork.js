@@ -297,10 +297,10 @@ else if(selectedValue ===  'fullstackMERN-projects'){
               All Projects
             </option>
             <option
-              value='backend-projects'
+              value='fullstack-projects'
               onClick={toggleBackendProjects}>
               {' '}
-              BackEnd Projects
+              Fullstack Projects
             </option>
             <option
               value='frontend-projects'
@@ -309,16 +309,16 @@ else if(selectedValue ===  'fullstackMERN-projects'){
               FrontEnd Projects
             </option>
             <option
-              value='backendDjango-projects'
+              value='fullstackDjango-projects'
               onClick={toggleBackendDjangoProjects}>
               {' '}
-              BackEndDjango Projects
+              FullStackDjango Projects
             </option>
             <option
-              value='backendNode-projects'
+              value='fullstackMERN-projects'
               onClick={toggleBackendNodeProjects}>
               {' '}
-              BackEndNode Projects
+              FullStackMERN Projects
             </option>
           </select>
           <div>
